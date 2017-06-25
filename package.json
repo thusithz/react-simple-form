@@ -1,0 +1,23 @@
+{
+  "name": "react-email",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "muicss": "^0.9.16",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-notifications": "^1.4.2"
+  },
+  "devDependencies": {
+    "create-react-app-sass": "^1.1.0",
+    "node-sass": "^4.5.3",
+    "react-scripts": "1.0.7",
+    "sass-loader": "^6.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts-with-sass start",
+    "build": "react-scripts-with-sass build",
+    "test": "react-scripts-with-sass test --env=jsdom",
+    "eject": "react-scripts-with-sass eject"
+  }
+}
